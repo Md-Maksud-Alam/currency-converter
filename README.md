@@ -20,7 +20,7 @@ It fetches live exchange rates and provides a smooth mobile-like user experience
 
 ## 🚀 Live Demo
 
-🔗🚀 **[Open Live Demo](https://mdmaksudalam.github.io/currency-converter/)**
+🔗🚀 **[Open Live Demo](https://Md-Maksud-Alam.github.io/currency-converter/)**
  
 
 ---
@@ -41,7 +41,7 @@ It fetches live exchange rates and provides a smooth mobile-like user experience
 
 ```bash
 # Clone the repository
-git clone https://github.com/mdmaksudalam/currency-converter.git
+git clone https://github.com/Md-Maksud-Alam/currency-converter.git
 
 # Open the folder
 cd currency-converter
@@ -72,7 +72,7 @@ Deploying a static website using GitHub Pages
 🧑‍💻 Author
 Md Maksud Alam
 🎓 B.Tech CSE 
-💻 GitHub: @mdmaksudalam
+💻 GitHub: @Md-Maksud-Alam
 
 ⭐ Support
 If you like this project, please give it a ⭐ on GitHub!
