@@ -146,8 +146,8 @@ button {
 }
 
 
-/* Existing styles remain unchanged */
-.spinner {
+/* Spinner animation for loading effect */
+.spinner { 
   margin: 1rem auto;
   border: 4px solid #eaeaea;
   border-top: 4px solid #7b4397;
@@ -164,7 +164,7 @@ button {
   }
 }
 
-/* Optional: fade-in animation for message */
+/*  fade-in animation for message */
 .msg {
   margin: 1.5rem 0;
   font-weight: 600;
