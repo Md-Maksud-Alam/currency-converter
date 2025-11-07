@@ -20,7 +20,8 @@ It fetches live exchange rates and provides a smooth mobile-like user experience
 
 ## 🚀 Live Demo
 
-🔗 **[View Project on GitHub Pages](https://mdmaksudalam.github.io/currency-converter/)**  
+🔗🚀 **[Open Live Demo](https://mdmaksudalam.github.io/currency-converter/)**
+ 
 
 ---
 
